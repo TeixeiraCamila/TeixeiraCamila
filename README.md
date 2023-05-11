@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Camila Cristina Teixeira 😁
+## Bem-vindo(a) ao perfil da Camila Cristina Teixeira 
 
  <div>
    <a href="https://github.com/TeixeiraCamila">
