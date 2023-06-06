@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Camila Cristina Teixeira 
+<h1 align="center"> Bem-vindo(a) ao perfil da Camila Cristina Teixeira </h1>
 
  <div >
    
