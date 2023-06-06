@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao perfil da Camila Cristina Teixeira 
 
- <div style="display: inline_block">
+ <div style="display: flex">
    
   <a href="https://github.com/TeixeiraCamila">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&show_icons=true&theme=aura_dark&hide_rank=true&count_private=true&line_height=35"/>
+    <img align="center"  src="https://github-readme-stats-green-omega.vercel.app/api?username=TeixeiraCamila&show_icons=true&theme=aura_dark&hide_rank=false&count_private=true&line_height=35"/>
    
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&hide_progress=false&theme=aura_dark"/>
+   <img align="center"  src="https://github-readme-stats-green-omega.vercel.app/api/top-langs/?username=TeixeiraCamila&hide_progress=false&theme=aura_dark"/>
  </a>
  
  
