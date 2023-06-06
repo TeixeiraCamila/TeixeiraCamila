@@ -2,7 +2,7 @@
 
  <div >
    
-  <a href="https://github.com/TeixeiraCamila">
+  <a align="center" href="https://github.com/TeixeiraCamila">
     <p>
      <img align="left" src="https://github-readme-stats-green-omega.vercel.app/api?username=TeixeiraCamila&show_icons=true&theme=aura_dark&hide_rank=false&count_private=true&line_height=35&hide_border=true&border_radius=5"/>   
     </p>
