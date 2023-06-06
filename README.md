@@ -6,7 +6,8 @@
     <p>
      <img align="left" src="https://github-readme-stats-green-omega.vercel.app/api?username=TeixeiraCamila&show_icons=true&theme=aura_dark&hide_rank=false&count_private=true&line_height=35&hide_border=true&border_radius=5"/>   
     </p>
-   <p>&nbsp;<img align="left" src="https://github-readme-stats-green-omega.vercel.app/api/top-langs/?username=TeixeiraCamila&hide_progress=false&theme=aura_dark&hide_border=true&border_radius=5"/>   
+   <p>
+    <img align="left" src="https://github-readme-stats-green-omega.vercel.app/api/top-langs/?username=TeixeiraCamila&hide_progress=false&theme=aura_dark&hide_border=true&border_radius=5"/>   
     </p> 
    <p>
      <img align="center" src="https://streak-stats.demolab.com/?user=TeixeiraCamila&theme=aura-dark&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats"/>   
