@@ -7,6 +7,9 @@
   
 </div>
 	  </br>
+
+     ![snake gif](https://github.com/TeixeiraCamila/TeixeiraCamila/blob/output/github-contribution-grid-snake.svg)
+
 	
 
  
