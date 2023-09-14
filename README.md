@@ -9,7 +9,7 @@
 	  </br>
 
 <div>
-	![snake gif](https://github.com/TeixeiraCamila/TeixeiraCamila/blob/output/github-contribution-grid-snake.svg)
+	 ![snake gif](https://github.com/luis92guimaraes/luis92guimaraes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 	
