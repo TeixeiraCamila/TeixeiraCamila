@@ -14,4 +14,3 @@
    <img align="center" alt="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-![Snake animation](https://github.com/TeixeiraCamila/TeixeiraCamila/blob/output/github-contribution-grid-snake.svg)
