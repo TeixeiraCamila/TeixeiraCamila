@@ -1,22 +1,7 @@
 ## Olá, meu nome é Camila!
 
-### 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="1000"
-      src="https://github-profile-trophy.vercel.app/?username=TeixeiraCamila&column=8&theme=onedark&no-frame=true&no-bg=true"
-    />
-
-  </a>
-</div>
-
----
 ### ⚙️ GitHub Analytics
+
 <div align="center">
 
 <img
@@ -39,3 +24,20 @@
   />
 
   </div>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="1000"
+      src="https://github-profile-trophy.vercel.app/?username=TeixeiraCamila&column=8&theme=onedark&no-frame=true&no-bg=true"
+    />
+
+  </a>
+</div>
