@@ -2,6 +2,10 @@
 
 ### ⚙️ GitHub Analytics
 
+## Olá, meu nome é Camila!
+
+### ⚙️ GitHub Analytics
+
 <table style="width: 100%; border-collapse: collapse;">
   <tbody style="text-align: center;">
     <tr>
@@ -28,6 +32,38 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+### 📈 Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TeixeiraCamila&bg_color=282c34&color=e4bf7a&line=df6d74&point=4e4942&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="900"
+      src="https://github-profile-trophy.vercel.app/?username=TeixeiraCamila&column=8&theme=onedark&no-frame=true&no-bg=true"
+    />
+
+  </a>
+</div>
+
+<br>
+
+---
+
+<br>
+
+![GitHub Actions Status](https://img.shields.io/github/workflow/status/TeixeiraCamila/MeuProjeto/CI?style=flat-square)
+
 
 ---
 
