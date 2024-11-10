@@ -2,30 +2,36 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center">
-
-<img
-    src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true"
-    alt="Github Stats"
-  />
-
-<br>
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
-  />
-
-  <br>
-
-<img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TeixeiraCamila&theme=onedark&hide_border=false"
-    alt="Github Stats"
-  />
-
-  </div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tbody style="text-align: center;">
+    <tr>
+      <td style="padding: 16px; border: none;">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true"
+          alt="Github Stats"
+        />
+      </td>
+      <td style="padding: 16px; border: none;">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=TeixeiraCamila&theme=onedark&hide_border=false"
+          alt="Github Streak"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 16px; text-align: center; border: none;">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
+
+### 📈 Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TeixeiraCamila&bg_color=282c34&color=e4bf7a&line=df6d74&point=4e4942&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -39,7 +45,7 @@
     title="repositório de troféus"
   >
     <img
-      width="1000"
+      width="900"
       src="https://github-profile-trophy.vercel.app/?username=TeixeiraCamila&column=8&theme=onedark&no-frame=true&no-bg=true"
     />
 
@@ -50,9 +56,6 @@
 
 ---
 
-## **Minhas Conquistas no GitHub**
+<br>
 
-- ![Contribuições](https://img.shields.io/github/contributors/TeixeiraCamila?style=flat-square)
-- ![Streak](https://img.shields.io/github/commit-activity/m/TeixeiraCamila?style=flat-square)
-- ![Stars](https://img.shields.io/github/stars/TeixeiraCamila?style=flat-square&label=Stars)
-- ![Seguidores](https://img.shields.io/github/followers/TeixeiraCamila?style=flat-square)
+![GitHub Actions Status](https://img.shields.io/github/workflow/status/TeixeiraCamila/MeuProjeto/CI?style=flat-square)
