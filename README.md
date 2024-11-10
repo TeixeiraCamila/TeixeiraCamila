@@ -23,10 +23,16 @@
     src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true"
     alt="Github Stats"
   />
+
+<br>
+
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Github Stats"
   />
+
+  <br>
+
 <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=TeixeiraCamila&theme=onedark&hide_border=false"
     alt="Github Stats"
