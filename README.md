@@ -3,22 +3,25 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <div style="flex: 1;width: 100%; padding: 16px; text-align: center;">
+  <div style="width: 50%; padding: 16px; text-align: center;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true"
       alt="Github Stats"
+      style="width: 100%;"
     />
   </div>
-  <div style="flex: 1;width: 100%;  padding: 16px; text-align: center;">
+  <div style="width: 50%;  padding: 16px; text-align: center;">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=TeixeiraCamila&theme=onedark&hide_border=false"
       alt="Github Streak"
+      style="width: 100%;"
     />
   </div>
   <div style="width: 100%; padding: 16px; text-align: center;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="Top Languages"
+      style="width: 100%;"
     />
   </div>
 </div>
