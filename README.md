@@ -1,6 +1,6 @@
 # Olá, meu nome é Camila!
 
-### ⚙️ GitHub Analytics & 
+### ⚙️ GitHub Analytics
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true"
