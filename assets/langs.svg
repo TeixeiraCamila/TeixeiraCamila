@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="240" viewBox="0 0 300 240">
+  <rect x="0.5" y="0.5" width="299" height="239" rx="4.5" fill="#282c34" stroke="#e4e2e2" stroke-opacity="0.2"/>
+  <text x="25" y="35" font-family='Segoe UI, Ubuntu, sans-serif' font-size="18" font-weight="600" fill="#e4bf7a">Top Languages</text>
+  <rect x="25" y="55" width="73.95978347768678" height="8" fill="#e34c26"/>
+  <rect x="98.95978347768678" y="55" width="55.84418100209894" height="8" fill="#663399"/>
+  <rect x="154.80396447978572" y="55" width="47.64200310888262" height="8" fill="#41b883"/>
+  <rect x="202.44596758866834" y="55" width="36.481334400691935" height="8" fill="#f1e05a"/>
+  <rect x="238.92730198936027" y="55" width="36.07269801063973" height="8" fill="#3178c6"/>
+  <circle cx="30" cy="91" r="5" fill="#e34c26"/>
+  <text x="42" y="95" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf">HTML</text>
+  <text x="275" y="95" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf" text-anchor="end">29.6%</text>
+  <circle cx="30" cy="113" r="5" fill="#663399"/>
+  <text x="42" y="117" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf">CSS</text>
+  <text x="275" y="117" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf" text-anchor="end">22.3%</text>
+  <circle cx="30" cy="135" r="5" fill="#41b883"/>
+  <text x="42" y="139" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf">Vue</text>
+  <text x="275" y="139" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf" text-anchor="end">19.1%</text>
+  <circle cx="30" cy="157" r="5" fill="#f1e05a"/>
+  <text x="42" y="161" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf">JavaScript</text>
+  <text x="275" y="161" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf" text-anchor="end">14.6%</text>
+  <circle cx="30" cy="179" r="5" fill="#3178c6"/>
+  <text x="42" y="183" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf">TypeScript</text>
+  <text x="275" y="183" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13" fill="#abb2bf" text-anchor="end">14.4%</text>
+</svg>
