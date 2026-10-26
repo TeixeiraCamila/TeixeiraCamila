@@ -19,11 +19,11 @@ I focus on crafting responsive and dynamic web applications with a strong emphas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeixeiraCamila&theme=onedark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=TeixeiraCamila&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
